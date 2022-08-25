@@ -10,7 +10,7 @@
 ### ⭐ Made in Python
 
 ## ⭐Features
-- When you check inbox it will automatically check over and over very 1 sec until receives a mail
+- When you check inbox it will automatically check over and over every 1 sec until receives a mail
 - Automatically copy code received in email to clipboard
 - Press n to clear console and generate a new mail
 - It will run until stopped manually , you don't have to reopen the program after every mail
