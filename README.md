@@ -1,11 +1,11 @@
 
 <h1 align="center">
   <br>
-   Temp Mail Gen Program Updated with better features.
+   Temp Mail Generator Updated with better features.
   <br>
 </h1>
 
-.
+
 ### ⭐ Email Are Fetched From [Mail.tm](https://mail.tm/en/) 
 ### ⭐ Made in Python
 
