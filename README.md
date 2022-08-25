@@ -1,32 +1,22 @@
 
 <h1 align="center">
   <br>
-   A FREE API VERSION FOR CREATING MAIL FOR VERIFICATION  WEBSITED 📧
+   Temp Mail Gen Program Updated with better features.
   <br>
 </h1>
 
-## ⭐ Feel Free To Fork And Star The Repo .
-### ➡️ Email Are Fetched From [Mail.tm](https://mail.tm/en/) And [Mail.gw](https://mail.gw/en/)
-### ➡️ IF Use For Discord It Autometically Open Verification Link in Default Browser
+.
+### ⭐ Email Are Fetched From [Mail.tm](https://mail.tm/en/) 
+### ⭐ Made in Python
 
-##  First Look
-![Help](https://github.com/HarshalCODE/Mail-Gen/blob/main/github/front.png)
+## ⭐Features
+- When you check inbox it will automatically check over and over very 1 sec until receives a mail
+- Automatically copy code received in email to clipboard
+- Press n to clear console and generate a new mail
+- It will run until stopped manually , you don't have to reopen the program after every mail
 
-## Used Packages
- • [Python Requests](https://github.com/psf/requests)
- 
- • [Web Browser](https://docs.python.org/3/library/webbrowser.html)
- 
-## 📝 To-Do
-
-It will only be updated for the following things:
-
-  * Creating Of Your Own Name Adress
-  * Delete Email Feature
-  * Code optimisation
 
 ## Steps To Setup
  1. Clone The Repo using `git clone `.
  2. Run Command `pip install -m requirements.txt`
  3. To Start `python Main.py`.
- 4. Just Click Batch File To Start
